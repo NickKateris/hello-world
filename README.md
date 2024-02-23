@@ -1,6 +1,3 @@
 # hello-world
-My first repository
 
-
-Hello!
-I'm Nick and I am an Engineer. I love fluids.
+I am a postdoctoral researcher at Stanford University, working on energy conversion at the molecular scale for batteries and propulsion. 
